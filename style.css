@@ -1,0 +1,16 @@
+#countlabel{
+    display: block;
+    text-align: center;
+    font-size: 5em;
+    font-family: franklin Gothic Medium;
+}
+
+#btns{
+    text-align: center;
+}
+
+.button{
+    color:black;
+    background-color: aqua;
+}
+
